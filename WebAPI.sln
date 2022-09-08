@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{89925478-83D6-43AD-8449-4F4ACE77E856}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{867513E3-FBB0-4B8B-BC6A-62CBDFA579C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{CBD3A602-A4DC-44E5-9395-D4B41FCC5493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89925478-83D6-43AD-8449-4F4ACE77E856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89925478-83D6-43AD-8449-4F4ACE77E856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89925478-83D6-43AD-8449-4F4ACE77E856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89925478-83D6-43AD-8449-4F4ACE77E856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867513E3-FBB0-4B8B-BC6A-62CBDFA579C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867513E3-FBB0-4B8B-BC6A-62CBDFA579C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867513E3-FBB0-4B8B-BC6A-62CBDFA579C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867513E3-FBB0-4B8B-BC6A-62CBDFA579C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD3A602-A4DC-44E5-9395-D4B41FCC5493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD3A602-A4DC-44E5-9395-D4B41FCC5493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD3A602-A4DC-44E5-9395-D4B41FCC5493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD3A602-A4DC-44E5-9395-D4B41FCC5493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAAB498-A3FD-4EE3-B44C-0D0BB8116EFA}
+	EndGlobalSection
+EndGlobal
